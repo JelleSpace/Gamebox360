@@ -16,4 +16,4 @@ System Requirements:
 Android 8.0 or higher (works well with Android 9.0, 11, and 13).
 Adreno 618 GPU (optimal performance with this GPU model).
 Supports ROMs up to 6-8GB in size for compatibility.
-With Gamebox 360, you can enjoy your favorite Xbox 360 and PS2 games, all from the convenience of your Android phone, without needing to deal with multiple apps or complicated setups. It's a one-stop launcher for gamers who want to streamline their retro gaming experience.
+With Gamebox 360, you can enjoy your favorite Xbox 360 and PS2 games, all from the convenience of your Android phone, without needing to deal with multiple apps or complicated setups. It's a one-stop launcher for gamers who want to streamline their retro gaming experience. Join my server Discord https://discord.gg/sd7HX8HXG
